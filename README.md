@@ -1,5 +1,5 @@
-# Loki
-powerful tool for Developers
+# Loki 
+## Powerful tool for Developers
 
 <img width="1380" alt="Screenshot 2023-11-13 at 12 39 01 PM" src="https://github.com/Elliott-Chong/Dionysuss/assets/77007117/ab121d25-1884-44ca-9323-73db0b491f07">
 
